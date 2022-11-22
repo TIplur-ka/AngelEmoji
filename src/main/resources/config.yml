@@ -1,0 +1,11 @@
+settings:
+  # placeholder, emoji, disable
+  suggestion-mode: placeholder
+
+  resourcePack:
+    force: false
+    url: ''
+    sha1: ''
+    messages:
+      declined: '§cPlease, accept the resource pack!'
+      download-error: '§cThe resource pack could not be downloaded! Contact the server stuff!'

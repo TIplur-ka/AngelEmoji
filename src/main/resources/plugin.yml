@@ -1,0 +1,7 @@
+name: AngelEmoji
+version: '${project.version}'
+main: ru.angelitex.angelemoji.AngelEmoji
+api-version: 1.19
+authors: [ omashune ]
+description: Plugin that adds emoji to your server
+website: https://vk.com/angelitex
