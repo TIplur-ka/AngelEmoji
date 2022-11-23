@@ -1,11 +1,18 @@
+#| Basic plugin settings
 settings:
-  # placeholder, emoji, disable
+  #| Emoji mode of operation
+  #| placeholder, emoji, disable
   suggestion-mode: placeholder
 
+  #| Configuring the resource pack
   resourcePack:
+    #| Turning on when entering
     force: false
+    #| Link to the resource pack
     url: ''
+    #| Hash sum of the resource pack
     sha1: ''
+    #| Messages when installing the resource pack
     messages:
       declined: '§cPlease, accept the resource pack!'
       download-error: '§cThe resource pack could not be downloaded! Contact the server stuff!'
