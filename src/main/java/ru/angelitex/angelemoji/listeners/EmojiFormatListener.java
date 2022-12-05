@@ -43,10 +43,6 @@ public class EmojiFormatListener implements Listener {
         e.setMessage(message);
     }
 
-    @EventHandler(priority = EventPriority.HIGHEST)
-    public void onCommandTab(TabCompleteEvent e) {
-        System.out.println("test");
-    }
 
     @EventHandler(priority = EventPriority.HIGHEST)
     public void onAnvil(PrepareAnvilEvent e) {
